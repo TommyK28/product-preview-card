@@ -192,7 +192,7 @@
         font-size: var(--font-size__small);
         line-height: var(--lh-120);
         text-transform: uppercase;
-        letter-spacing: 12px;
+        letter-spacing: 5px;
     }
 
     .product-card__type,
@@ -241,7 +241,7 @@
         }
 
         .product-card__content {
-            padding: 32px;
+            padding: 28px 32px;
         }
     }
 }
